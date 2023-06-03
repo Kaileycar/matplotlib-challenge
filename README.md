@@ -2,7 +2,7 @@
 
 #Files:
 
-[Mouse_metadata.csv](https://github.com/Kaileycar/matplotlib-challenge/files/11640188/Mouse_metadata.csv)
+[Mouse_metadata.csv](https://github.com/Kaileycar/matplotlib-challenge/files/11640188/Mouse_metadata.csv) /n
 [Study_results.csv](https://github.com/Kaileycar/matplotlib-challenge/files/11640189/Study_results.csv)
 
 # Overview:
@@ -11,7 +11,7 @@ I read in my csv files and worked on grouping, merging, finding statistic values
 # Helpful Sites:
 
 https://www.geeksforgeeks.org/find-duplicate-rows-in-a-dataframe-based-on-all-or-selected-columns/: duplicated function
-https://stackoverflow.com/questions/40874935/subsetting-duplicate-rows-in-python: duplicate function
+https://stackoverflow.com/questions/40874935/subsetting-duplicate-rows-in-python: duplicate function /n
 Both of these websites helped me figure out how to use the 'duplicated' function in order to get the Mouse ID with duplicated timepoints.
 
 
